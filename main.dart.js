@@ -79508,7 +79508,7 @@ l(){var s=this.d
 s===$&&A.b()
 s.l()
 this.W0()},
-O(a){var s,r,q,p,o,n,m,l=this,k=null,j="assets/images/doodles.png",i="title_hero_section",h="sub_title_hero_section",g="cv",f="assets/animation/development.json",e=t.l,d=A.bJ(a,k,e).w.a.a*0.9
+O(a){var s,r,q,p,o,n,m,l=this,k=null,j="assets/images/doodles.png",i="title_hero_section",h="sub_title_hero_section",g="cv",f="assets/animation/developments.json",e=t.l,d=A.bJ(a,k,e).w.a.a*0.9
 e=A.bJ(a,k,e).w
 s=t.IB
 r=a.ak(s).r.a
